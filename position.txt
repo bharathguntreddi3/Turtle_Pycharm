@@ -1,0 +1,38 @@
+/*-Turtle position-*/
+
+-- The turtle position is specified with the 2d co-ordination system
+
+-- Default direction of the turtle is East
+
+-- b = turtle.Turtle()
+
+-- Change direction of the turtle by -
+
+				[ b.setheading(degree) ] # any direction can be mention
+
+-- Moving the turtle forward by -
+				[ b.forward(any_pixel_value) ]   #argument can be int or float
+
+-- Moving the turtle forward by -
+				[ b.backward(any_pixel_value) ]   #argument can be int or float
+
+-- Turning the turtle by -
+				[ b.left(degree) ]  #turn the turtle to the assigned angle
+
+-- [ b.hideturtle() ]  #hides the turtle
+		- If you want to hide the turtle at last you try this at the end of your code
+		- If you want to hide th turtle from the very begining you can place this at begining
+
+-- [ b.speed(0-10) ]  #values form 0 to 10 o is the fastest and comes the 10
+
+-- b.begin_fill()
+-- b.fillcolor("cool_name")   #fills the area with the specified color
+-- b.end_fill()
+
+-- OR can be 
+
+-- b.color("turtle_color", "area_color")  
+
+-- b.pensize(value)   #thickness of lines
+
+-- b.home()  #goto home i.e center of the window

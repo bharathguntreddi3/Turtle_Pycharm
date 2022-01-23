@@ -1,0 +1,31 @@
+-- import random   # import the random library module
+
+-- random.choice("list || tuple || string")   #randomly picks a number from tuple,list and string using choice
+
+-- random.shuffle(sequence,function)    #suffles the numbers
+
+-- random.randint(n, m)   #randomly selects a integer in given range and does not accept floats
+
+-- random.random()  #randomly picks a float  number
+
+-- random.seed()   #generates some values and these values are called seeds
+#seed is used to store state of  the random function
+
+-- random.getstate()  #returns an object with a correct internal state of the random
+
+-- random.setstate   #to reverse the getstate of the ranom 
+
+-- random.getrandbits(bitsize)   #generates a random number with the specified bit size
+
+-- random.randrange(n, m)  #generates numbers between the assigned range
+
+-- random.sample("list || tuple || string", k)   #k is the number of values to be returned
+
+-- random.uniform(x, y)  #returns a floating values between the given floating range
+
+-- 
+
+
+
+
+
