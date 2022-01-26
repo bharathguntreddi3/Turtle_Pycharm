@@ -5,7 +5,7 @@ star = turtle.Turtle()
 b = turtle.Screen()  #created screen object 
 b.title("BHARATH_GUNTREDDI") 
 
-star.shape("turtle") 
+# star.shape("turtle") 
 
 star.getscreen().bgcolor("black")  #screen object created and background color changed 
 star.speed(10)
