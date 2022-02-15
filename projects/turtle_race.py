@@ -13,9 +13,9 @@ turtles =[]
 
 for i in range(0, 6):
 	race.color(colors[i])
-	race.up()
+	# race.penup()
 	race.goto(-230, position[i])
-	race.down()
+	# race.pendown()
 	turtles.append(turtles)
 
 if bet:
